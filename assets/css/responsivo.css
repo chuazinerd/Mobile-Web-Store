@@ -36,6 +36,14 @@
         width: 100%;
     }
 }
+
+/* reponsivo até 384pix*/ 
+@media screen and (min-width: 192px) {
+    .menu__lista {
+       width: 400px;
+    }
+}
+
 /* reponsivo para tablet */
 @media screen and (min-width: 768px) {
     .destaques__principal  {
