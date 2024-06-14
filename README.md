@@ -1,3 +1,3 @@
 # Mobile-Web-Store
-CSS Grid: Simplificando layouts (Alura)
+CSS Grid
 https://chuazinerd.github.io/Mobile-Web-Store/
